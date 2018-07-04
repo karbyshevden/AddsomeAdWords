@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "465811374889",
+    "firebase_url": "https://testadwordskotlin.firebaseio.com",
+    "project_id": "testadwordskotlin",
+    "storage_bucket": "testadwordskotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465811374889:android:c8a58ccea0353258",
+        "android_client_info": {
+          "package_name": "com.karbyshev.addsomeadwords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465811374889-6po5untlbq4a5p7fq6i3plruq4l1jegu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karbyshev.addsomeadwords",
+            "certificate_hash": "87a2d2a3c2d57013fc7966a579daf0e47b920f00"
+          }
+        },
+        {
+          "client_id": "465811374889-c3gq9moe7bc7j5lf2k227qgge103bgbj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClPjOdNnxujnn4t_LCVgbGHIzs4t_Ddps"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465811374889-c3gq9moe7bc7j5lf2k227qgge103bgbj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
